@@ -47,7 +47,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssroyal)]
+[![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=ssroyal)](https://github.com/ssroyal?tab=repositories)
+
 
 </details>
 
